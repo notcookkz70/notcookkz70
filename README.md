@@ -1,16 +1,13 @@
-## Hi there 👋
+### just notcookkz70, writing code 👋
 
-<!--
-**notcookkz70/notcookkz70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend engineer focused on building distributed services that hold up under real-world load. Most of my work involves Go and Python, with PostgreSQL and Redis handling the data layer, all running in Docker. I care about clean API design, solid data modeling, and systems that are straightforward to operate and debug.
 
-Here are some ideas to get you started:
+- 🔭 Building a Go microservice framework with FastAPI-style routing patterns.
+- ⚡ Fun fact: I debug faster with music on
+- 🌱 Learning Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=notcookkz70&hide_border=true&theme=cobalt" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notcookkz70&layout=compact&langs_count=8&hide_border=true&theme=cobalt" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Go-e3b341?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/Docker-e3b341?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/FastAPI-e3b341?style=for-the-badge&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Python-e3b341?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/PostgreSQL-e3b341?style=for-the-badge&logoColor=white" alt="PostgreSQL" />
